@@ -57,7 +57,8 @@ Relacionamentos:
 ---
 
 ## 🖼 Diagrama Conceitual
-* banco.png
+![Modelo Conceitual](banco.png)
+
 
 ---
 
