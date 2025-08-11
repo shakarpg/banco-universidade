@@ -57,7 +57,7 @@ Relacionamentos:
 ---
 
 ## 🖼 Diagrama Conceitual
-*(Inserir imagem aqui — `images/modelo_conceitual.png`)*
+*
 
 ---
 
